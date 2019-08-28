@@ -1,7 +1,7 @@
 package GitTest.SimpleGitTest;
 
 /**
- * Hello world!
+ * Hello world!user1 code
  *
  */
 public class App 
@@ -10,6 +10,7 @@ public class App
     {   System.out.println("Hello World! Main  code existing here");
         System.out.println( "Hello World! user2 code existing here" );
         System.out.println( "Hello World! user1code existing here" );
+        System.out.println("Hello World! user1 updated  code existing here");
 
     }
 }
